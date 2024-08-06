@@ -7,7 +7,6 @@ public class Ipod implements ReprodutorMusical {
     @Override
     public void tocar() {
         System.out.println("Tocando musica pelo IPOD");
-
     }
 
     @Override
